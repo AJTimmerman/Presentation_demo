@@ -1,0 +1,1 @@
+Gebruik deze config.txt voor het snel maken van commits door een normale regel met waarom je deze commit maakt toe te voegen
