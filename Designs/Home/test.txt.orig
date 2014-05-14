@@ -1,0 +1,8 @@
+test
+test2;
+branching this branch;
+<<<<<<< HEAD
+merge;
+=======
+hai;
+>>>>>>> e31d7ebcdf85ad3a7902ea2a82d600b63388ebf1
