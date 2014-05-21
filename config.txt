@@ -3,3 +3,4 @@ Gebruik deze config.txt voor het snel maken van commits door een normale regel m
 Master commit, created index.php in branch FE-BE;
 Eliteforever created multiple branches for the teams. All branches are branched and ready to work with;
 Master push to the left;
+'';
