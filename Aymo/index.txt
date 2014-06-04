@@ -1,3 +1,6 @@
 baasheid
 test;
 test2l
+terminal testing
+test test
+test test
