@@ -6,6 +6,8 @@ class MenuClass
 
 	public function __construct($dbh)
 	{
+
+
 		$this->DBH = $dbh;
 	}
 
